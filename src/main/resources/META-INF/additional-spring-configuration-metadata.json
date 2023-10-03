@@ -1,0 +1,23 @@
+{
+  "properties": [
+    {
+      "name": "oracle.datasource.username",
+      "type": "java.lang.String",
+      "description": "Equivalent of spring.datasource.username for na oracle db"
+    },
+    {
+      "name": "oracle.datasource.jdbc-url",
+      "type": "java.lang.String",
+      "description": "Equivalent of spring.datasource.jdbc-url for Oracle db"
+    },
+    {
+      "name": "oracle.datasource.password",
+      "type": "java.lang.String",
+      "description": "Equivalent of spring.datasource.password for Oracle db"
+    },
+    {
+      "name": "oracle.datasource.driver-class-name",
+      "type": "java.lang.String",
+      "description": "Equivalent of spring.datasource.driver-class-name for Oracle db"
+    }
+  ] }

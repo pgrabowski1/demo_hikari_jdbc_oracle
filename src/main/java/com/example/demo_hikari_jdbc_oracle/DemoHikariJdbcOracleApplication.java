@@ -6,8 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class DemoHikariJdbcOracleApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(DemoHikariJdbcOracleApplication.class, args);
-	}
+    public static void main(String[] args) {
+        SpringApplication.run(DemoHikariJdbcOracleApplication.class, args);
+    }
 
 }
